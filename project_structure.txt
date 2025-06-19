@@ -1,0 +1,15 @@
+.
+├── Data
+│   ├── processed
+│   │   ├── cleaned
+│   │   └── migrant_activity_PCA_tSNE.csv
+│   └── raw
+│       ├── 2011
+│       └── 2021
+├── project_structure.txt
+├── readme.md
+├── UK_Immigration_Trends_Analytics.ipynb
+├── UK_Immigration_Trends_Analytics.pdf
+└── UK_Immigration_Trends_Analytics.twbx
+
+7 directories, 6 files

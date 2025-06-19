@@ -1,0 +1,721 @@
+date,geography,geography code,Value,Sex,Occupation,Hours Worked
+2011,North East,E12000001,1861,Males,"1. Managers, directors and senior officials",Part-time: 15 hours or less worked
+2011,North West,E12000002,6146,Males,"1. Managers, directors and senior officials",Part-time: 15 hours or less worked
+2011,Yorkshire and The Humber,E12000003,4763,Males,"1. Managers, directors and senior officials",Part-time: 15 hours or less worked
+2011,East Midlands,E12000004,4525,Males,"1. Managers, directors and senior officials",Part-time: 15 hours or less worked
+2011,West Midlands,E12000005,5325,Males,"1. Managers, directors and senior officials",Part-time: 15 hours or less worked
+2011,East,E12000006,6652,Males,"1. Managers, directors and senior officials",Part-time: 15 hours or less worked
+2011,London,E12000007,9651,Males,"1. Managers, directors and senior officials",Part-time: 15 hours or less worked
+2011,South East,E12000008,11130,Males,"1. Managers, directors and senior officials",Part-time: 15 hours or less worked
+2011,South West,E12000009,6348,Males,"1. Managers, directors and senior officials",Part-time: 15 hours or less worked
+2011,Wales,W92000004,2642,Males,"1. Managers, directors and senior officials",Part-time: 15 hours or less worked
+2011,North East,E12000001,3205,Males,"1. Managers, directors and senior officials",Part-time: 16 to 30 hours worked
+2011,North West,E12000002,11558,Males,"1. Managers, directors and senior officials",Part-time: 16 to 30 hours worked
+2011,Yorkshire and The Humber,E12000003,8430,Males,"1. Managers, directors and senior officials",Part-time: 16 to 30 hours worked
+2011,East Midlands,E12000004,7390,Males,"1. Managers, directors and senior officials",Part-time: 16 to 30 hours worked
+2011,West Midlands,E12000005,9505,Males,"1. Managers, directors and senior officials",Part-time: 16 to 30 hours worked
+2011,East,E12000006,10242,Males,"1. Managers, directors and senior officials",Part-time: 16 to 30 hours worked
+2011,London,E12000007,18620,Males,"1. Managers, directors and senior officials",Part-time: 16 to 30 hours worked
+2011,South East,E12000008,16625,Males,"1. Managers, directors and senior officials",Part-time: 16 to 30 hours worked
+2011,South West,E12000009,9976,Males,"1. Managers, directors and senior officials",Part-time: 16 to 30 hours worked
+2011,Wales,W92000004,4354,Males,"1. Managers, directors and senior officials",Part-time: 16 to 30 hours worked
+2011,North East,E12000001,36602,Males,"1. Managers, directors and senior officials",Full-time: 31 to 48 hours worked
+2011,North West,E12000002,120538,Males,"1. Managers, directors and senior officials",Full-time: 31 to 48 hours worked
+2011,Yorkshire and The Humber,E12000003,88778,Males,"1. Managers, directors and senior officials",Full-time: 31 to 48 hours worked
+2011,East Midlands,E12000004,83170,Males,"1. Managers, directors and senior officials",Full-time: 31 to 48 hours worked
+2011,West Midlands,E12000005,95578,Males,"1. Managers, directors and senior officials",Full-time: 31 to 48 hours worked
+2011,East,E12000006,117968,Males,"1. Managers, directors and senior officials",Full-time: 31 to 48 hours worked
+2011,London,E12000007,158498,Males,"1. Managers, directors and senior officials",Full-time: 31 to 48 hours worked
+2011,South East,E12000008,186578,Males,"1. Managers, directors and senior officials",Full-time: 31 to 48 hours worked
+2011,South West,E12000009,98281,Males,"1. Managers, directors and senior officials",Full-time: 31 to 48 hours worked
+2011,Wales,W92000004,44597,Males,"1. Managers, directors and senior officials",Full-time: 31 to 48 hours worked
+2011,North East,E12000001,20296,Males,"1. Managers, directors and senior officials",Full-time: 49 or more hours worked
+2011,North West,E12000002,66875,Males,"1. Managers, directors and senior officials",Full-time: 49 or more hours worked
+2011,Yorkshire and The Humber,E12000003,53849,Males,"1. Managers, directors and senior officials",Full-time: 49 or more hours worked
+2011,East Midlands,E12000004,55152,Males,"1. Managers, directors and senior officials",Full-time: 49 or more hours worked
+2011,West Midlands,E12000005,59383,Males,"1. Managers, directors and senior officials",Full-time: 49 or more hours worked
+2011,East,E12000006,82246,Males,"1. Managers, directors and senior officials",Full-time: 49 or more hours worked
+2011,London,E12000007,115200,Males,"1. Managers, directors and senior officials",Full-time: 49 or more hours worked
+2011,South East,E12000008,134264,Males,"1. Managers, directors and senior officials",Full-time: 49 or more hours worked
+2011,South West,E12000009,66843,Males,"1. Managers, directors and senior officials",Full-time: 49 or more hours worked
+2011,Wales,W92000004,27352,Males,"1. Managers, directors and senior officials",Full-time: 49 or more hours worked
+2011,North East,E12000001,3510,Males,2. Professional occupations,Part-time: 15 hours or less worked
+2011,North West,E12000002,10470,Males,2. Professional occupations,Part-time: 15 hours or less worked
+2011,Yorkshire and The Humber,E12000003,7804,Males,2. Professional occupations,Part-time: 15 hours or less worked
+2011,East Midlands,E12000004,6976,Males,2. Professional occupations,Part-time: 15 hours or less worked
+2011,West Midlands,E12000005,8517,Males,2. Professional occupations,Part-time: 15 hours or less worked
+2011,East,E12000006,10089,Males,2. Professional occupations,Part-time: 15 hours or less worked
+2011,London,E12000007,18588,Males,2. Professional occupations,Part-time: 15 hours or less worked
+2011,South East,E12000008,17318,Males,2. Professional occupations,Part-time: 15 hours or less worked
+2011,South West,E12000009,9782,Males,2. Professional occupations,Part-time: 15 hours or less worked
+2011,Wales,W92000004,4426,Males,2. Professional occupations,Part-time: 15 hours or less worked
+2011,North East,E12000001,4438,Males,2. Professional occupations,Part-time: 16 to 30 hours worked
+2011,North West,E12000002,15208,Males,2. Professional occupations,Part-time: 16 to 30 hours worked
+2011,Yorkshire and The Humber,E12000003,11544,Males,2. Professional occupations,Part-time: 16 to 30 hours worked
+2011,East Midlands,E12000004,9705,Males,2. Professional occupations,Part-time: 16 to 30 hours worked
+2011,West Midlands,E12000005,12150,Males,2. Professional occupations,Part-time: 16 to 30 hours worked
+2011,East,E12000006,13567,Males,2. Professional occupations,Part-time: 16 to 30 hours worked
+2011,London,E12000007,27785,Males,2. Professional occupations,Part-time: 16 to 30 hours worked
+2011,South East,E12000008,22745,Males,2. Professional occupations,Part-time: 16 to 30 hours worked
+2011,South West,E12000009,14467,Males,2. Professional occupations,Part-time: 16 to 30 hours worked
+2011,Wales,W92000004,6700,Males,2. Professional occupations,Part-time: 16 to 30 hours worked
+2011,North East,E12000001,58124,Males,2. Professional occupations,Full-time: 31 to 48 hours worked
+2011,North West,E12000002,180299,Males,2. Professional occupations,Full-time: 31 to 48 hours worked
+2011,Yorkshire and The Humber,E12000003,124107,Males,2. Professional occupations,Full-time: 31 to 48 hours worked
+2011,East Midlands,E12000004,110162,Males,2. Professional occupations,Full-time: 31 to 48 hours worked
+2011,West Midlands,E12000005,135545,Males,2. Professional occupations,Full-time: 31 to 48 hours worked
+2011,East,E12000006,166913,Males,2. Professional occupations,Full-time: 31 to 48 hours worked
+2011,London,E12000007,303880,Males,2. Professional occupations,Full-time: 31 to 48 hours worked
+2011,South East,E12000008,283042,Males,2. Professional occupations,Full-time: 31 to 48 hours worked
+2011,South West,E12000009,144977,Males,2. Professional occupations,Full-time: 31 to 48 hours worked
+2011,Wales,W92000004,69183,Males,2. Professional occupations,Full-time: 31 to 48 hours worked
+2011,North East,E12000001,15759,Males,2. Professional occupations,Full-time: 49 or more hours worked
+2011,North West,E12000002,46139,Males,2. Professional occupations,Full-time: 49 or more hours worked
+2011,Yorkshire and The Humber,E12000003,34638,Males,2. Professional occupations,Full-time: 49 or more hours worked
+2011,East Midlands,E12000004,33144,Males,2. Professional occupations,Full-time: 49 or more hours worked
+2011,West Midlands,E12000005,38924,Males,2. Professional occupations,Full-time: 49 or more hours worked
+2011,East,E12000006,55196,Males,2. Professional occupations,Full-time: 49 or more hours worked
+2011,London,E12000007,113740,Males,2. Professional occupations,Full-time: 49 or more hours worked
+2011,South East,E12000008,93636,Males,2. Professional occupations,Full-time: 49 or more hours worked
+2011,South West,E12000009,42633,Males,2. Professional occupations,Full-time: 49 or more hours worked
+2011,Wales,W92000004,18247,Males,2. Professional occupations,Full-time: 49 or more hours worked
+2011,North East,E12000001,3556,Males,3. Associate professional and technical occupations,Part-time: 15 hours or less worked
+2011,North West,E12000002,10027,Males,3. Associate professional and technical occupations,Part-time: 15 hours or less worked
+2011,Yorkshire and The Humber,E12000003,7566,Males,3. Associate professional and technical occupations,Part-time: 15 hours or less worked
+2011,East Midlands,E12000004,6546,Males,3. Associate professional and technical occupations,Part-time: 15 hours or less worked
+2011,West Midlands,E12000005,7522,Males,3. Associate professional and technical occupations,Part-time: 15 hours or less worked
+2011,East,E12000006,9289,Males,3. Associate professional and technical occupations,Part-time: 15 hours or less worked
+2011,London,E12000007,18408,Males,3. Associate professional and technical occupations,Part-time: 15 hours or less worked
+2011,South East,E12000008,15833,Males,3. Associate professional and technical occupations,Part-time: 15 hours or less worked
+2011,South West,E12000009,8992,Males,3. Associate professional and technical occupations,Part-time: 15 hours or less worked
+2011,Wales,W92000004,4151,Males,3. Associate professional and technical occupations,Part-time: 15 hours or less worked
+2011,North East,E12000001,4861,Males,3. Associate professional and technical occupations,Part-time: 16 to 30 hours worked
+2011,North West,E12000002,15333,Males,3. Associate professional and technical occupations,Part-time: 16 to 30 hours worked
+2011,Yorkshire and The Humber,E12000003,11552,Males,3. Associate professional and technical occupations,Part-time: 16 to 30 hours worked
+2011,East Midlands,E12000004,9469,Males,3. Associate professional and technical occupations,Part-time: 16 to 30 hours worked
+2011,West Midlands,E12000005,11492,Males,3. Associate professional and technical occupations,Part-time: 16 to 30 hours worked
+2011,East,E12000006,13372,Males,3. Associate professional and technical occupations,Part-time: 16 to 30 hours worked
+2011,London,E12000007,29824,Males,3. Associate professional and technical occupations,Part-time: 16 to 30 hours worked
+2011,South East,E12000008,21693,Males,3. Associate professional and technical occupations,Part-time: 16 to 30 hours worked
+2011,South West,E12000009,13660,Males,3. Associate professional and technical occupations,Part-time: 16 to 30 hours worked
+2011,Wales,W92000004,6550,Males,3. Associate professional and technical occupations,Part-time: 16 to 30 hours worked
+2011,North East,E12000001,55895,Males,3. Associate professional and technical occupations,Full-time: 31 to 48 hours worked
+2011,North West,E12000002,158604,Males,3. Associate professional and technical occupations,Full-time: 31 to 48 hours worked
+2011,Yorkshire and The Humber,E12000003,115119,Males,3. Associate professional and technical occupations,Full-time: 31 to 48 hours worked
+2011,East Midlands,E12000004,101511,Males,3. Associate professional and technical occupations,Full-time: 31 to 48 hours worked
+2011,West Midlands,E12000005,117936,Males,3. Associate professional and technical occupations,Full-time: 31 to 48 hours worked
+2011,East,E12000006,152719,Males,3. Associate professional and technical occupations,Full-time: 31 to 48 hours worked
+2011,London,E12000007,229698,Males,3. Associate professional and technical occupations,Full-time: 31 to 48 hours worked
+2011,South East,E12000008,238897,Males,3. Associate professional and technical occupations,Full-time: 31 to 48 hours worked
+2011,South West,E12000009,126589,Males,3. Associate professional and technical occupations,Full-time: 31 to 48 hours worked
+2011,Wales,W92000004,61997,Males,3. Associate professional and technical occupations,Full-time: 31 to 48 hours worked
+2011,North East,E12000001,10992,Males,3. Associate professional and technical occupations,Full-time: 49 or more hours worked
+2011,North West,E12000002,29214,Males,3. Associate professional and technical occupations,Full-time: 49 or more hours worked
+2011,Yorkshire and The Humber,E12000003,26231,Males,3. Associate professional and technical occupations,Full-time: 49 or more hours worked
+2011,East Midlands,E12000004,23193,Males,3. Associate professional and technical occupations,Full-time: 49 or more hours worked
+2011,West Midlands,E12000005,26358,Males,3. Associate professional and technical occupations,Full-time: 49 or more hours worked
+2011,East,E12000006,43240,Males,3. Associate professional and technical occupations,Full-time: 49 or more hours worked
+2011,London,E12000007,88209,Males,3. Associate professional and technical occupations,Full-time: 49 or more hours worked
+2011,South East,E12000008,69648,Males,3. Associate professional and technical occupations,Full-time: 49 or more hours worked
+2011,South West,E12000009,35271,Males,3. Associate professional and technical occupations,Full-time: 49 or more hours worked
+2011,Wales,W92000004,13457,Males,3. Associate professional and technical occupations,Full-time: 49 or more hours worked
+2011,North East,E12000001,1403,Males,4. Administrative and secretarial occupations,Part-time: 15 hours or less worked
+2011,North West,E12000002,4287,Males,4. Administrative and secretarial occupations,Part-time: 15 hours or less worked
+2011,Yorkshire and The Humber,E12000003,3313,Males,4. Administrative and secretarial occupations,Part-time: 15 hours or less worked
+2011,East Midlands,E12000004,2716,Males,4. Administrative and secretarial occupations,Part-time: 15 hours or less worked
+2011,West Midlands,E12000005,3392,Males,4. Administrative and secretarial occupations,Part-time: 15 hours or less worked
+2011,East,E12000006,3805,Males,4. Administrative and secretarial occupations,Part-time: 15 hours or less worked
+2011,London,E12000007,7212,Males,4. Administrative and secretarial occupations,Part-time: 15 hours or less worked
+2011,South East,E12000008,5899,Males,4. Administrative and secretarial occupations,Part-time: 15 hours or less worked
+2011,South West,E12000009,3434,Males,4. Administrative and secretarial occupations,Part-time: 15 hours or less worked
+2011,Wales,W92000004,1731,Males,4. Administrative and secretarial occupations,Part-time: 15 hours or less worked
+2011,North East,E12000001,3425,Males,4. Administrative and secretarial occupations,Part-time: 16 to 30 hours worked
+2011,North West,E12000002,9133,Males,4. Administrative and secretarial occupations,Part-time: 16 to 30 hours worked
+2011,Yorkshire and The Humber,E12000003,6214,Males,4. Administrative and secretarial occupations,Part-time: 16 to 30 hours worked
+2011,East Midlands,E12000004,4981,Males,4. Administrative and secretarial occupations,Part-time: 16 to 30 hours worked
+2011,West Midlands,E12000005,6345,Males,4. Administrative and secretarial occupations,Part-time: 16 to 30 hours worked
+2011,East,E12000006,5950,Males,4. Administrative and secretarial occupations,Part-time: 16 to 30 hours worked
+2011,London,E12000007,13606,Males,4. Administrative and secretarial occupations,Part-time: 16 to 30 hours worked
+2011,South East,E12000008,8788,Males,4. Administrative and secretarial occupations,Part-time: 16 to 30 hours worked
+2011,South West,E12000009,6005,Males,4. Administrative and secretarial occupations,Part-time: 16 to 30 hours worked
+2011,Wales,W92000004,3794,Males,4. Administrative and secretarial occupations,Part-time: 16 to 30 hours worked
+2011,North East,E12000001,24750,Males,4. Administrative and secretarial occupations,Full-time: 31 to 48 hours worked
+2011,North West,E12000002,69871,Males,4. Administrative and secretarial occupations,Full-time: 31 to 48 hours worked
+2011,Yorkshire and The Humber,E12000003,44432,Males,4. Administrative and secretarial occupations,Full-time: 31 to 48 hours worked
+2011,East Midlands,E12000004,36794,Males,4. Administrative and secretarial occupations,Full-time: 31 to 48 hours worked
+2011,West Midlands,E12000005,47570,Males,4. Administrative and secretarial occupations,Full-time: 31 to 48 hours worked
+2011,East,E12000006,53148,Males,4. Administrative and secretarial occupations,Full-time: 31 to 48 hours worked
+2011,London,E12000007,95137,Males,4. Administrative and secretarial occupations,Full-time: 31 to 48 hours worked
+2011,South East,E12000008,76224,Males,4. Administrative and secretarial occupations,Full-time: 31 to 48 hours worked
+2011,South West,E12000009,45102,Males,4. Administrative and secretarial occupations,Full-time: 31 to 48 hours worked
+2011,Wales,W92000004,27765,Males,4. Administrative and secretarial occupations,Full-time: 31 to 48 hours worked
+2011,North East,E12000001,1375,Males,4. Administrative and secretarial occupations,Full-time: 49 or more hours worked
+2011,North West,E12000002,4240,Males,4. Administrative and secretarial occupations,Full-time: 49 or more hours worked
+2011,Yorkshire and The Humber,E12000003,3324,Males,4. Administrative and secretarial occupations,Full-time: 49 or more hours worked
+2011,East Midlands,E12000004,3328,Males,4. Administrative and secretarial occupations,Full-time: 49 or more hours worked
+2011,West Midlands,E12000005,3882,Males,4. Administrative and secretarial occupations,Full-time: 49 or more hours worked
+2011,East,E12000006,6310,Males,4. Administrative and secretarial occupations,Full-time: 49 or more hours worked
+2011,London,E12000007,12906,Males,4. Administrative and secretarial occupations,Full-time: 49 or more hours worked
+2011,South East,E12000008,9200,Males,4. Administrative and secretarial occupations,Full-time: 49 or more hours worked
+2011,South West,E12000009,4024,Males,4. Administrative and secretarial occupations,Full-time: 49 or more hours worked
+2011,Wales,W92000004,1852,Males,4. Administrative and secretarial occupations,Full-time: 49 or more hours worked
+2011,North East,E12000001,3619,Males,5. Skilled trades occupations,Part-time: 15 hours or less worked
+2011,North West,E12000002,10950,Males,5. Skilled trades occupations,Part-time: 15 hours or less worked
+2011,Yorkshire and The Humber,E12000003,9057,Males,5. Skilled trades occupations,Part-time: 15 hours or less worked
+2011,East Midlands,E12000004,7522,Males,5. Skilled trades occupations,Part-time: 15 hours or less worked
+2011,West Midlands,E12000005,9027,Males,5. Skilled trades occupations,Part-time: 15 hours or less worked
+2011,East,E12000006,10805,Males,5. Skilled trades occupations,Part-time: 15 hours or less worked
+2011,London,E12000007,13176,Males,5. Skilled trades occupations,Part-time: 15 hours or less worked
+2011,South East,E12000008,15106,Males,5. Skilled trades occupations,Part-time: 15 hours or less worked
+2011,South West,E12000009,10632,Males,5. Skilled trades occupations,Part-time: 15 hours or less worked
+2011,Wales,W92000004,5151,Males,5. Skilled trades occupations,Part-time: 15 hours or less worked
+2011,North East,E12000001,9814,Males,5. Skilled trades occupations,Part-time: 16 to 30 hours worked
+2011,North West,E12000002,29263,Males,5. Skilled trades occupations,Part-time: 16 to 30 hours worked
+2011,Yorkshire and The Humber,E12000003,22558,Males,5. Skilled trades occupations,Part-time: 16 to 30 hours worked
+2011,East Midlands,E12000004,17349,Males,5. Skilled trades occupations,Part-time: 16 to 30 hours worked
+2011,West Midlands,E12000005,23679,Males,5. Skilled trades occupations,Part-time: 16 to 30 hours worked
+2011,East,E12000006,23059,Males,5. Skilled trades occupations,Part-time: 16 to 30 hours worked
+2011,London,E12000007,35910,Males,5. Skilled trades occupations,Part-time: 16 to 30 hours worked
+2011,South East,E12000008,32496,Males,5. Skilled trades occupations,Part-time: 16 to 30 hours worked
+2011,South West,E12000009,23514,Males,5. Skilled trades occupations,Part-time: 16 to 30 hours worked
+2011,Wales,W92000004,12999,Males,5. Skilled trades occupations,Part-time: 16 to 30 hours worked
+2011,North East,E12000001,90574,Males,5. Skilled trades occupations,Full-time: 31 to 48 hours worked
+2011,North West,E12000002,235816,Males,5. Skilled trades occupations,Full-time: 31 to 48 hours worked
+2011,Yorkshire and The Humber,E12000003,188355,Males,5. Skilled trades occupations,Full-time: 31 to 48 hours worked
+2011,East Midlands,E12000004,161574,Males,5. Skilled trades occupations,Full-time: 31 to 48 hours worked
+2011,West Midlands,E12000005,195166,Males,5. Skilled trades occupations,Full-time: 31 to 48 hours worked
+2011,East,E12000006,211401,Males,5. Skilled trades occupations,Full-time: 31 to 48 hours worked
+2011,London,E12000007,192047,Males,5. Skilled trades occupations,Full-time: 31 to 48 hours worked
+2011,South East,E12000008,294190,Males,5. Skilled trades occupations,Full-time: 31 to 48 hours worked
+2011,South West,E12000009,211456,Males,5. Skilled trades occupations,Full-time: 31 to 48 hours worked
+2011,Wales,W92000004,110994,Males,5. Skilled trades occupations,Full-time: 31 to 48 hours worked
+2011,North East,E12000001,20863,Males,5. Skilled trades occupations,Full-time: 49 or more hours worked
+2011,North West,E12000002,52616,Males,5. Skilled trades occupations,Full-time: 49 or more hours worked
+2011,Yorkshire and The Humber,E12000003,49288,Males,5. Skilled trades occupations,Full-time: 49 or more hours worked
+2011,East Midlands,E12000004,46187,Males,5. Skilled trades occupations,Full-time: 49 or more hours worked
+2011,West Midlands,E12000005,50189,Males,5. Skilled trades occupations,Full-time: 49 or more hours worked
+2011,East,E12000006,62857,Males,5. Skilled trades occupations,Full-time: 49 or more hours worked
+2011,London,E12000007,52090,Males,5. Skilled trades occupations,Full-time: 49 or more hours worked
+2011,South East,E12000008,83865,Males,5. Skilled trades occupations,Full-time: 49 or more hours worked
+2011,South West,E12000009,60869,Males,5. Skilled trades occupations,Full-time: 49 or more hours worked
+2011,Wales,W92000004,34470,Males,5. Skilled trades occupations,Full-time: 49 or more hours worked
+2011,North East,E12000001,1779,Males,"6. Caring, leisure and other service occupations",Part-time: 15 hours or less worked
+2011,North West,E12000002,5491,Males,"6. Caring, leisure and other service occupations",Part-time: 15 hours or less worked
+2011,Yorkshire and The Humber,E12000003,4096,Males,"6. Caring, leisure and other service occupations",Part-time: 15 hours or less worked
+2011,East Midlands,E12000004,3594,Males,"6. Caring, leisure and other service occupations",Part-time: 15 hours or less worked
+2011,West Midlands,E12000005,4278,Males,"6. Caring, leisure and other service occupations",Part-time: 15 hours or less worked
+2011,East,E12000006,4692,Males,"6. Caring, leisure and other service occupations",Part-time: 15 hours or less worked
+2011,London,E12000007,7600,Males,"6. Caring, leisure and other service occupations",Part-time: 15 hours or less worked
+2011,South East,E12000008,7455,Males,"6. Caring, leisure and other service occupations",Part-time: 15 hours or less worked
+2011,South West,E12000009,4618,Males,"6. Caring, leisure and other service occupations",Part-time: 15 hours or less worked
+2011,Wales,W92000004,2418,Males,"6. Caring, leisure and other service occupations",Part-time: 15 hours or less worked
+2011,North East,E12000001,3955,Males,"6. Caring, leisure and other service occupations",Part-time: 16 to 30 hours worked
+2011,North West,E12000002,12157,Males,"6. Caring, leisure and other service occupations",Part-time: 16 to 30 hours worked
+2011,Yorkshire and The Humber,E12000003,8820,Males,"6. Caring, leisure and other service occupations",Part-time: 16 to 30 hours worked
+2011,East Midlands,E12000004,7051,Males,"6. Caring, leisure and other service occupations",Part-time: 16 to 30 hours worked
+2011,West Midlands,E12000005,8779,Males,"6. Caring, leisure and other service occupations",Part-time: 16 to 30 hours worked
+2011,East,E12000006,8443,Males,"6. Caring, leisure and other service occupations",Part-time: 16 to 30 hours worked
+2011,London,E12000007,14315,Males,"6. Caring, leisure and other service occupations",Part-time: 16 to 30 hours worked
+2011,South East,E12000008,12662,Males,"6. Caring, leisure and other service occupations",Part-time: 16 to 30 hours worked
+2011,South West,E12000009,8454,Males,"6. Caring, leisure and other service occupations",Part-time: 16 to 30 hours worked
+2011,Wales,W92000004,5466,Males,"6. Caring, leisure and other service occupations",Part-time: 16 to 30 hours worked
+2011,North East,E12000001,14455,Males,"6. Caring, leisure and other service occupations",Full-time: 31 to 48 hours worked
+2011,North West,E12000002,37856,Males,"6. Caring, leisure and other service occupations",Full-time: 31 to 48 hours worked
+2011,Yorkshire and The Humber,E12000003,24546,Males,"6. Caring, leisure and other service occupations",Full-time: 31 to 48 hours worked
+2011,East Midlands,E12000004,21382,Males,"6. Caring, leisure and other service occupations",Full-time: 31 to 48 hours worked
+2011,West Midlands,E12000005,25597,Males,"6. Caring, leisure and other service occupations",Full-time: 31 to 48 hours worked
+2011,East,E12000006,27793,Males,"6. Caring, leisure and other service occupations",Full-time: 31 to 48 hours worked
+2011,London,E12000007,44528,Males,"6. Caring, leisure and other service occupations",Full-time: 31 to 48 hours worked
+2011,South East,E12000008,43496,Males,"6. Caring, leisure and other service occupations",Full-time: 31 to 48 hours worked
+2011,South West,E12000009,24797,Males,"6. Caring, leisure and other service occupations",Full-time: 31 to 48 hours worked
+2011,Wales,W92000004,16973,Males,"6. Caring, leisure and other service occupations",Full-time: 31 to 48 hours worked
+2011,North East,E12000001,1741,Males,"6. Caring, leisure and other service occupations",Full-time: 49 or more hours worked
+2011,North West,E12000002,4985,Males,"6. Caring, leisure and other service occupations",Full-time: 49 or more hours worked
+2011,Yorkshire and The Humber,E12000003,3266,Males,"6. Caring, leisure and other service occupations",Full-time: 49 or more hours worked
+2011,East Midlands,E12000004,2987,Males,"6. Caring, leisure and other service occupations",Full-time: 49 or more hours worked
+2011,West Midlands,E12000005,3579,Males,"6. Caring, leisure and other service occupations",Full-time: 49 or more hours worked
+2011,East,E12000006,4675,Males,"6. Caring, leisure and other service occupations",Full-time: 49 or more hours worked
+2011,London,E12000007,6719,Males,"6. Caring, leisure and other service occupations",Full-time: 49 or more hours worked
+2011,South East,E12000008,7888,Males,"6. Caring, leisure and other service occupations",Full-time: 49 or more hours worked
+2011,South West,E12000009,4128,Males,"6. Caring, leisure and other service occupations",Full-time: 49 or more hours worked
+2011,Wales,W92000004,2306,Males,"6. Caring, leisure and other service occupations",Full-time: 49 or more hours worked
+2011,North East,E12000001,5558,Males,7. Sales and customer service occupations,Part-time: 15 hours or less worked
+2011,North West,E12000002,18288,Males,7. Sales and customer service occupations,Part-time: 15 hours or less worked
+2011,Yorkshire and The Humber,E12000003,12699,Males,7. Sales and customer service occupations,Part-time: 15 hours or less worked
+2011,East Midlands,E12000004,10995,Males,7. Sales and customer service occupations,Part-time: 15 hours or less worked
+2011,West Midlands,E12000005,13711,Males,7. Sales and customer service occupations,Part-time: 15 hours or less worked
+2011,East,E12000006,15036,Males,7. Sales and customer service occupations,Part-time: 15 hours or less worked
+2011,London,E12000007,25472,Males,7. Sales and customer service occupations,Part-time: 15 hours or less worked
+2011,South East,E12000008,25303,Males,7. Sales and customer service occupations,Part-time: 15 hours or less worked
+2011,South West,E12000009,14648,Males,7. Sales and customer service occupations,Part-time: 15 hours or less worked
+2011,Wales,W92000004,7360,Males,7. Sales and customer service occupations,Part-time: 15 hours or less worked
+2011,North East,E12000001,8870,Males,7. Sales and customer service occupations,Part-time: 16 to 30 hours worked
+2011,North West,E12000002,26470,Males,7. Sales and customer service occupations,Part-time: 16 to 30 hours worked
+2011,Yorkshire and The Humber,E12000003,17496,Males,7. Sales and customer service occupations,Part-time: 16 to 30 hours worked
+2011,East Midlands,E12000004,13032,Males,7. Sales and customer service occupations,Part-time: 16 to 30 hours worked
+2011,West Midlands,E12000005,18189,Males,7. Sales and customer service occupations,Part-time: 16 to 30 hours worked
+2011,East,E12000006,15360,Males,7. Sales and customer service occupations,Part-time: 16 to 30 hours worked
+2011,London,E12000007,38356,Males,7. Sales and customer service occupations,Part-time: 16 to 30 hours worked
+2011,South East,E12000008,23788,Males,7. Sales and customer service occupations,Part-time: 16 to 30 hours worked
+2011,South West,E12000009,15789,Males,7. Sales and customer service occupations,Part-time: 16 to 30 hours worked
+2011,Wales,W92000004,10055,Males,7. Sales and customer service occupations,Part-time: 16 to 30 hours worked
+2011,North East,E12000001,20721,Males,7. Sales and customer service occupations,Full-time: 31 to 48 hours worked
+2011,North West,E12000002,56256,Males,7. Sales and customer service occupations,Full-time: 31 to 48 hours worked
+2011,Yorkshire and The Humber,E12000003,39118,Males,7. Sales and customer service occupations,Full-time: 31 to 48 hours worked
+2011,East Midlands,E12000004,30937,Males,7. Sales and customer service occupations,Full-time: 31 to 48 hours worked
+2011,West Midlands,E12000005,38743,Males,7. Sales and customer service occupations,Full-time: 31 to 48 hours worked
+2011,East,E12000006,39735,Males,7. Sales and customer service occupations,Full-time: 31 to 48 hours worked
+2011,London,E12000007,60859,Males,7. Sales and customer service occupations,Full-time: 31 to 48 hours worked
+2011,South East,E12000008,62198,Males,7. Sales and customer service occupations,Full-time: 31 to 48 hours worked
+2011,South West,E12000009,37921,Males,7. Sales and customer service occupations,Full-time: 31 to 48 hours worked
+2011,Wales,W92000004,21415,Males,7. Sales and customer service occupations,Full-time: 31 to 48 hours worked
+2011,North East,E12000001,2166,Males,7. Sales and customer service occupations,Full-time: 49 or more hours worked
+2011,North West,E12000002,6593,Males,7. Sales and customer service occupations,Full-time: 49 or more hours worked
+2011,Yorkshire and The Humber,E12000003,5068,Males,7. Sales and customer service occupations,Full-time: 49 or more hours worked
+2011,East Midlands,E12000004,4840,Males,7. Sales and customer service occupations,Full-time: 49 or more hours worked
+2011,West Midlands,E12000005,5602,Males,7. Sales and customer service occupations,Full-time: 49 or more hours worked
+2011,East,E12000006,6611,Males,7. Sales and customer service occupations,Full-time: 49 or more hours worked
+2011,London,E12000007,7952,Males,7. Sales and customer service occupations,Full-time: 49 or more hours worked
+2011,South East,E12000008,9692,Males,7. Sales and customer service occupations,Full-time: 49 or more hours worked
+2011,South West,E12000009,5340,Males,7. Sales and customer service occupations,Full-time: 49 or more hours worked
+2011,Wales,W92000004,2546,Males,7. Sales and customer service occupations,Full-time: 49 or more hours worked
+2011,North East,E12000001,2668,Males,"8. Process, plant and machine operatives",Part-time: 15 hours or less worked
+2011,North West,E12000002,8144,Males,"8. Process, plant and machine operatives",Part-time: 15 hours or less worked
+2011,Yorkshire and The Humber,E12000003,6336,Males,"8. Process, plant and machine operatives",Part-time: 15 hours or less worked
+2011,East Midlands,E12000004,5408,Males,"8. Process, plant and machine operatives",Part-time: 15 hours or less worked
+2011,West Midlands,E12000005,6745,Males,"8. Process, plant and machine operatives",Part-time: 15 hours or less worked
+2011,East,E12000006,6637,Males,"8. Process, plant and machine operatives",Part-time: 15 hours or less worked
+2011,London,E12000007,8632,Males,"8. Process, plant and machine operatives",Part-time: 15 hours or less worked
+2011,South East,E12000008,8765,Males,"8. Process, plant and machine operatives",Part-time: 15 hours or less worked
+2011,South West,E12000009,5625,Males,"8. Process, plant and machine operatives",Part-time: 15 hours or less worked
+2011,Wales,W92000004,3496,Males,"8. Process, plant and machine operatives",Part-time: 15 hours or less worked
+2011,North East,E12000001,8163,Males,"8. Process, plant and machine operatives",Part-time: 16 to 30 hours worked
+2011,North West,E12000002,24616,Males,"8. Process, plant and machine operatives",Part-time: 16 to 30 hours worked
+2011,Yorkshire and The Humber,E12000003,19736,Males,"8. Process, plant and machine operatives",Part-time: 16 to 30 hours worked
+2011,East Midlands,E12000004,14047,Males,"8. Process, plant and machine operatives",Part-time: 16 to 30 hours worked
+2011,West Midlands,E12000005,20411,Males,"8. Process, plant and machine operatives",Part-time: 16 to 30 hours worked
+2011,East,E12000006,16587,Males,"8. Process, plant and machine operatives",Part-time: 16 to 30 hours worked
+2011,London,E12000007,28293,Males,"8. Process, plant and machine operatives",Part-time: 16 to 30 hours worked
+2011,South East,E12000008,21407,Males,"8. Process, plant and machine operatives",Part-time: 16 to 30 hours worked
+2011,South West,E12000009,13641,Males,"8. Process, plant and machine operatives",Part-time: 16 to 30 hours worked
+2011,Wales,W92000004,8804,Males,"8. Process, plant and machine operatives",Part-time: 16 to 30 hours worked
+2011,North East,E12000001,62226,Males,"8. Process, plant and machine operatives",Full-time: 31 to 48 hours worked
+2011,North West,E12000002,157202,Males,"8. Process, plant and machine operatives",Full-time: 31 to 48 hours worked
+2011,Yorkshire and The Humber,E12000003,125994,Males,"8. Process, plant and machine operatives",Full-time: 31 to 48 hours worked
+2011,East Midlands,E12000004,112334,Males,"8. Process, plant and machine operatives",Full-time: 31 to 48 hours worked
+2011,West Midlands,E12000005,132176,Males,"8. Process, plant and machine operatives",Full-time: 31 to 48 hours worked
+2011,East,E12000006,117515,Males,"8. Process, plant and machine operatives",Full-time: 31 to 48 hours worked
+2011,London,E12000007,106743,Males,"8. Process, plant and machine operatives",Full-time: 31 to 48 hours worked
+2011,South East,E12000008,138993,Males,"8. Process, plant and machine operatives",Full-time: 31 to 48 hours worked
+2011,South West,E12000009,99522,Males,"8. Process, plant and machine operatives",Full-time: 31 to 48 hours worked
+2011,Wales,W92000004,66630,Males,"8. Process, plant and machine operatives",Full-time: 31 to 48 hours worked
+2011,North East,E12000001,17259,Males,"8. Process, plant and machine operatives",Full-time: 49 or more hours worked
+2011,North West,E12000002,41982,Males,"8. Process, plant and machine operatives",Full-time: 49 or more hours worked
+2011,Yorkshire and The Humber,E12000003,37354,Males,"8. Process, plant and machine operatives",Full-time: 49 or more hours worked
+2011,East Midlands,E12000004,36566,Males,"8. Process, plant and machine operatives",Full-time: 49 or more hours worked
+2011,West Midlands,E12000005,35806,Males,"8. Process, plant and machine operatives",Full-time: 49 or more hours worked
+2011,East,E12000006,43494,Males,"8. Process, plant and machine operatives",Full-time: 49 or more hours worked
+2011,London,E12000007,28047,Males,"8. Process, plant and machine operatives",Full-time: 49 or more hours worked
+2011,South East,E12000008,47569,Males,"8. Process, plant and machine operatives",Full-time: 49 or more hours worked
+2011,South West,E12000009,31319,Males,"8. Process, plant and machine operatives",Full-time: 49 or more hours worked
+2011,Wales,W92000004,18761,Males,"8. Process, plant and machine operatives",Full-time: 49 or more hours worked
+2011,North East,E12000001,8888,Males,9. Elementary occupations,Part-time: 15 hours or less worked
+2011,North West,E12000002,26038,Males,9. Elementary occupations,Part-time: 15 hours or less worked
+2011,Yorkshire and The Humber,E12000003,19464,Males,9. Elementary occupations,Part-time: 15 hours or less worked
+2011,East Midlands,E12000004,16686,Males,9. Elementary occupations,Part-time: 15 hours or less worked
+2011,West Midlands,E12000005,19089,Males,9. Elementary occupations,Part-time: 15 hours or less worked
+2011,East,E12000006,19988,Males,9. Elementary occupations,Part-time: 15 hours or less worked
+2011,London,E12000007,24159,Males,9. Elementary occupations,Part-time: 15 hours or less worked
+2011,South East,E12000008,29245,Males,9. Elementary occupations,Part-time: 15 hours or less worked
+2011,South West,E12000009,20441,Males,9. Elementary occupations,Part-time: 15 hours or less worked
+2011,Wales,W92000004,10265,Males,9. Elementary occupations,Part-time: 15 hours or less worked
+2011,North East,E12000001,13938,Males,9. Elementary occupations,Part-time: 16 to 30 hours worked
+2011,North West,E12000002,38348,Males,9. Elementary occupations,Part-time: 16 to 30 hours worked
+2011,Yorkshire and The Humber,E12000003,28371,Males,9. Elementary occupations,Part-time: 16 to 30 hours worked
+2011,East Midlands,E12000004,22936,Males,9. Elementary occupations,Part-time: 16 to 30 hours worked
+2011,West Midlands,E12000005,29955,Males,9. Elementary occupations,Part-time: 16 to 30 hours worked
+2011,East,E12000006,24583,Males,9. Elementary occupations,Part-time: 16 to 30 hours worked
+2011,London,E12000007,43023,Males,9. Elementary occupations,Part-time: 16 to 30 hours worked
+2011,South East,E12000008,35454,Males,9. Elementary occupations,Part-time: 16 to 30 hours worked
+2011,South West,E12000009,25464,Males,9. Elementary occupations,Part-time: 16 to 30 hours worked
+2011,Wales,W92000004,15069,Males,9. Elementary occupations,Part-time: 16 to 30 hours worked
+2011,North East,E12000001,44862,Males,9. Elementary occupations,Full-time: 31 to 48 hours worked
+2011,North West,E12000002,124919,Males,9. Elementary occupations,Full-time: 31 to 48 hours worked
+2011,Yorkshire and The Humber,E12000003,101696,Males,9. Elementary occupations,Full-time: 31 to 48 hours worked
+2011,East Midlands,E12000004,93462,Males,9. Elementary occupations,Full-time: 31 to 48 hours worked
+2011,West Midlands,E12000005,110785,Males,9. Elementary occupations,Full-time: 31 to 48 hours worked
+2011,East,E12000006,103572,Males,9. Elementary occupations,Full-time: 31 to 48 hours worked
+2011,London,E12000007,123197,Males,9. Elementary occupations,Full-time: 31 to 48 hours worked
+2011,South East,E12000008,138037,Males,9. Elementary occupations,Full-time: 31 to 48 hours worked
+2011,South West,E12000009,90938,Males,9. Elementary occupations,Full-time: 31 to 48 hours worked
+2011,Wales,W92000004,55883,Males,9. Elementary occupations,Full-time: 31 to 48 hours worked
+2011,North East,E12000001,6355,Males,9. Elementary occupations,Full-time: 49 or more hours worked
+2011,North West,E12000002,17847,Males,9. Elementary occupations,Full-time: 49 or more hours worked
+2011,Yorkshire and The Humber,E12000003,15044,Males,9. Elementary occupations,Full-time: 49 or more hours worked
+2011,East Midlands,E12000004,14211,Males,9. Elementary occupations,Full-time: 49 or more hours worked
+2011,West Midlands,E12000005,15810,Males,9. Elementary occupations,Full-time: 49 or more hours worked
+2011,East,E12000006,18610,Males,9. Elementary occupations,Full-time: 49 or more hours worked
+2011,London,E12000007,26706,Males,9. Elementary occupations,Full-time: 49 or more hours worked
+2011,South East,E12000008,26034,Males,9. Elementary occupations,Full-time: 49 or more hours worked
+2011,South West,E12000009,15463,Males,9. Elementary occupations,Full-time: 49 or more hours worked
+2011,Wales,W92000004,8256,Males,9. Elementary occupations,Full-time: 49 or more hours worked
+2011,North East,E12000001,2022,Females,"1. Managers, directors and senior officials",Part-time: 15 hours or less worked
+2011,North West,E12000002,6690,Females,"1. Managers, directors and senior officials",Part-time: 15 hours or less worked
+2011,Yorkshire and The Humber,E12000003,5497,Females,"1. Managers, directors and senior officials",Part-time: 15 hours or less worked
+2011,East Midlands,E12000004,5434,Females,"1. Managers, directors and senior officials",Part-time: 15 hours or less worked
+2011,West Midlands,E12000005,5847,Females,"1. Managers, directors and senior officials",Part-time: 15 hours or less worked
+2011,East,E12000006,8611,Females,"1. Managers, directors and senior officials",Part-time: 15 hours or less worked
+2011,London,E12000007,9027,Females,"1. Managers, directors and senior officials",Part-time: 15 hours or less worked
+2011,South East,E12000008,13680,Females,"1. Managers, directors and senior officials",Part-time: 15 hours or less worked
+2011,South West,E12000009,8613,Females,"1. Managers, directors and senior officials",Part-time: 15 hours or less worked
+2011,Wales,W92000004,3111,Females,"1. Managers, directors and senior officials",Part-time: 15 hours or less worked
+2011,North East,E12000001,6003,Females,"1. Managers, directors and senior officials",Part-time: 16 to 30 hours worked
+2011,North West,E12000002,18263,Females,"1. Managers, directors and senior officials",Part-time: 16 to 30 hours worked
+2011,Yorkshire and The Humber,E12000003,14606,Females,"1. Managers, directors and senior officials",Part-time: 16 to 30 hours worked
+2011,East Midlands,E12000004,13147,Females,"1. Managers, directors and senior officials",Part-time: 16 to 30 hours worked
+2011,West Midlands,E12000005,14625,Females,"1. Managers, directors and senior officials",Part-time: 16 to 30 hours worked
+2011,East,E12000006,18662,Females,"1. Managers, directors and senior officials",Part-time: 16 to 30 hours worked
+2011,London,E12000007,19988,Females,"1. Managers, directors and senior officials",Part-time: 16 to 30 hours worked
+2011,South East,E12000008,29337,Females,"1. Managers, directors and senior officials",Part-time: 16 to 30 hours worked
+2011,South West,E12000009,19157,Females,"1. Managers, directors and senior officials",Part-time: 16 to 30 hours worked
+2011,Wales,W92000004,7841,Females,"1. Managers, directors and senior officials",Part-time: 16 to 30 hours worked
+2011,North East,E12000001,23964,Females,"1. Managers, directors and senior officials",Full-time: 31 to 48 hours worked
+2011,North West,E12000002,72408,Females,"1. Managers, directors and senior officials",Full-time: 31 to 48 hours worked
+2011,Yorkshire and The Humber,E12000003,51662,Females,"1. Managers, directors and senior officials",Full-time: 31 to 48 hours worked
+2011,East Midlands,E12000004,46122,Females,"1. Managers, directors and senior officials",Full-time: 31 to 48 hours worked
+2011,West Midlands,E12000005,52525,Females,"1. Managers, directors and senior officials",Full-time: 31 to 48 hours worked
+2011,East,E12000006,63001,Females,"1. Managers, directors and senior officials",Full-time: 31 to 48 hours worked
+2011,London,E12000007,100335,Females,"1. Managers, directors and senior officials",Full-time: 31 to 48 hours worked
+2011,South East,E12000008,102032,Females,"1. Managers, directors and senior officials",Full-time: 31 to 48 hours worked
+2011,South West,E12000009,56838,Females,"1. Managers, directors and senior officials",Full-time: 31 to 48 hours worked
+2011,Wales,W92000004,28299,Females,"1. Managers, directors and senior officials",Full-time: 31 to 48 hours worked
+2011,North East,E12000001,5979,Females,"1. Managers, directors and senior officials",Full-time: 49 or more hours worked
+2011,North West,E12000002,19224,Females,"1. Managers, directors and senior officials",Full-time: 49 or more hours worked
+2011,Yorkshire and The Humber,E12000003,14436,Females,"1. Managers, directors and senior officials",Full-time: 49 or more hours worked
+2011,East Midlands,E12000004,13777,Females,"1. Managers, directors and senior officials",Full-time: 49 or more hours worked
+2011,West Midlands,E12000005,14915,Females,"1. Managers, directors and senior officials",Full-time: 49 or more hours worked
+2011,East,E12000006,19395,Females,"1. Managers, directors and senior officials",Full-time: 49 or more hours worked
+2011,London,E12000007,36310,Females,"1. Managers, directors and senior officials",Full-time: 49 or more hours worked
+2011,South East,E12000008,32633,Females,"1. Managers, directors and senior officials",Full-time: 49 or more hours worked
+2011,South West,E12000009,19772,Females,"1. Managers, directors and senior officials",Full-time: 49 or more hours worked
+2011,Wales,W92000004,8806,Females,"1. Managers, directors and senior officials",Full-time: 49 or more hours worked
+2011,North East,E12000001,5994,Females,2. Professional occupations,Part-time: 15 hours or less worked
+2011,North West,E12000002,18993,Females,2. Professional occupations,Part-time: 15 hours or less worked
+2011,Yorkshire and The Humber,E12000003,14459,Females,2. Professional occupations,Part-time: 15 hours or less worked
+2011,East Midlands,E12000004,13788,Females,2. Professional occupations,Part-time: 15 hours or less worked
+2011,West Midlands,E12000005,16055,Females,2. Professional occupations,Part-time: 15 hours or less worked
+2011,East,E12000006,21866,Females,2. Professional occupations,Part-time: 15 hours or less worked
+2011,London,E12000007,32019,Females,2. Professional occupations,Part-time: 15 hours or less worked
+2011,South East,E12000008,37807,Females,2. Professional occupations,Part-time: 15 hours or less worked
+2011,South West,E12000009,21259,Females,2. Professional occupations,Part-time: 15 hours or less worked
+2011,Wales,W92000004,8427,Females,2. Professional occupations,Part-time: 15 hours or less worked
+2011,North East,E12000001,19425,Females,2. Professional occupations,Part-time: 16 to 30 hours worked
+2011,North West,E12000002,59918,Females,2. Professional occupations,Part-time: 16 to 30 hours worked
+2011,Yorkshire and The Humber,E12000003,46343,Females,2. Professional occupations,Part-time: 16 to 30 hours worked
+2011,East Midlands,E12000004,40112,Females,2. Professional occupations,Part-time: 16 to 30 hours worked
+2011,West Midlands,E12000005,46641,Females,2. Professional occupations,Part-time: 16 to 30 hours worked
+2011,East,E12000006,52360,Females,2. Professional occupations,Part-time: 16 to 30 hours worked
+2011,London,E12000007,67478,Females,2. Professional occupations,Part-time: 16 to 30 hours worked
+2011,South East,E12000008,88609,Females,2. Professional occupations,Part-time: 16 to 30 hours worked
+2011,South West,E12000009,58016,Females,2. Professional occupations,Part-time: 16 to 30 hours worked
+2011,Wales,W92000004,27516,Females,2. Professional occupations,Part-time: 16 to 30 hours worked
+2011,North East,E12000001,58197,Females,2. Professional occupations,Full-time: 31 to 48 hours worked
+2011,North West,E12000002,167599,Females,2. Professional occupations,Full-time: 31 to 48 hours worked
+2011,Yorkshire and The Humber,E12000003,113330,Females,2. Professional occupations,Full-time: 31 to 48 hours worked
+2011,East Midlands,E12000004,93613,Females,2. Professional occupations,Full-time: 31 to 48 hours worked
+2011,West Midlands,E12000005,119244,Females,2. Professional occupations,Full-time: 31 to 48 hours worked
+2011,East,E12000006,127289,Females,2. Professional occupations,Full-time: 31 to 48 hours worked
+2011,London,E12000007,267502,Females,2. Professional occupations,Full-time: 31 to 48 hours worked
+2011,South East,E12000008,206201,Females,2. Professional occupations,Full-time: 31 to 48 hours worked
+2011,South West,E12000009,108802,Females,2. Professional occupations,Full-time: 31 to 48 hours worked
+2011,Wales,W92000004,71180,Females,2. Professional occupations,Full-time: 31 to 48 hours worked
+2011,North East,E12000001,10556,Females,2. Professional occupations,Full-time: 49 or more hours worked
+2011,North West,E12000002,30653,Females,2. Professional occupations,Full-time: 49 or more hours worked
+2011,Yorkshire and The Humber,E12000003,23555,Females,2. Professional occupations,Full-time: 49 or more hours worked
+2011,East Midlands,E12000004,20669,Females,2. Professional occupations,Full-time: 49 or more hours worked
+2011,West Midlands,E12000005,25820,Females,2. Professional occupations,Full-time: 49 or more hours worked
+2011,East,E12000006,31737,Females,2. Professional occupations,Full-time: 49 or more hours worked
+2011,London,E12000007,71595,Females,2. Professional occupations,Full-time: 49 or more hours worked
+2011,South East,E12000008,53320,Females,2. Professional occupations,Full-time: 49 or more hours worked
+2011,South West,E12000009,25257,Females,2. Professional occupations,Full-time: 49 or more hours worked
+2011,Wales,W92000004,10785,Females,2. Professional occupations,Full-time: 49 or more hours worked
+2011,North East,E12000001,3763,Females,3. Associate professional and technical occupations,Part-time: 15 hours or less worked
+2011,North West,E12000002,11902,Females,3. Associate professional and technical occupations,Part-time: 15 hours or less worked
+2011,Yorkshire and The Humber,E12000003,9552,Females,3. Associate professional and technical occupations,Part-time: 15 hours or less worked
+2011,East Midlands,E12000004,8970,Females,3. Associate professional and technical occupations,Part-time: 15 hours or less worked
+2011,West Midlands,E12000005,9726,Females,3. Associate professional and technical occupations,Part-time: 15 hours or less worked
+2011,East,E12000006,15250,Females,3. Associate professional and technical occupations,Part-time: 15 hours or less worked
+2011,London,E12000007,23584,Females,3. Associate professional and technical occupations,Part-time: 15 hours or less worked
+2011,South East,E12000008,25758,Females,3. Associate professional and technical occupations,Part-time: 15 hours or less worked
+2011,South West,E12000009,13666,Females,3. Associate professional and technical occupations,Part-time: 15 hours or less worked
+2011,Wales,W92000004,4824,Females,3. Associate professional and technical occupations,Part-time: 15 hours or less worked
+2011,North East,E12000001,11561,Females,3. Associate professional and technical occupations,Part-time: 16 to 30 hours worked
+2011,North West,E12000002,34165,Females,3. Associate professional and technical occupations,Part-time: 16 to 30 hours worked
+2011,Yorkshire and The Humber,E12000003,28261,Females,3. Associate professional and technical occupations,Part-time: 16 to 30 hours worked
+2011,East Midlands,E12000004,23050,Females,3. Associate professional and technical occupations,Part-time: 16 to 30 hours worked
+2011,West Midlands,E12000005,26757,Females,3. Associate professional and technical occupations,Part-time: 16 to 30 hours worked
+2011,East,E12000006,33353,Females,3. Associate professional and technical occupations,Part-time: 16 to 30 hours worked
+2011,London,E12000007,44691,Females,3. Associate professional and technical occupations,Part-time: 16 to 30 hours worked
+2011,South East,E12000008,54827,Females,3. Associate professional and technical occupations,Part-time: 16 to 30 hours worked
+2011,South West,E12000009,32500,Females,3. Associate professional and technical occupations,Part-time: 16 to 30 hours worked
+2011,Wales,W92000004,14487,Females,3. Associate professional and technical occupations,Part-time: 16 to 30 hours worked
+2011,North East,E12000001,33993,Females,3. Associate professional and technical occupations,Full-time: 31 to 48 hours worked
+2011,North West,E12000002,105992,Females,3. Associate professional and technical occupations,Full-time: 31 to 48 hours worked
+2011,Yorkshire and The Humber,E12000003,74124,Females,3. Associate professional and technical occupations,Full-time: 31 to 48 hours worked
+2011,East Midlands,E12000004,64558,Females,3. Associate professional and technical occupations,Full-time: 31 to 48 hours worked
+2011,West Midlands,E12000005,76481,Females,3. Associate professional and technical occupations,Full-time: 31 to 48 hours worked
+2011,East,E12000006,90507,Females,3. Associate professional and technical occupations,Full-time: 31 to 48 hours worked
+2011,London,E12000007,182798,Females,3. Associate professional and technical occupations,Full-time: 31 to 48 hours worked
+2011,South East,E12000008,146921,Females,3. Associate professional and technical occupations,Full-time: 31 to 48 hours worked
+2011,South West,E12000009,73148,Females,3. Associate professional and technical occupations,Full-time: 31 to 48 hours worked
+2011,Wales,W92000004,39062,Females,3. Associate professional and technical occupations,Full-time: 31 to 48 hours worked
+2011,North East,E12000001,2290,Females,3. Associate professional and technical occupations,Full-time: 49 or more hours worked
+2011,North West,E12000002,8067,Females,3. Associate professional and technical occupations,Full-time: 49 or more hours worked
+2011,Yorkshire and The Humber,E12000003,6247,Females,3. Associate professional and technical occupations,Full-time: 49 or more hours worked
+2011,East Midlands,E12000004,6081,Females,3. Associate professional and technical occupations,Full-time: 49 or more hours worked
+2011,West Midlands,E12000005,7199,Females,3. Associate professional and technical occupations,Full-time: 49 or more hours worked
+2011,East,E12000006,10129,Females,3. Associate professional and technical occupations,Full-time: 49 or more hours worked
+2011,London,E12000007,36629,Females,3. Associate professional and technical occupations,Full-time: 49 or more hours worked
+2011,South East,E12000008,18482,Females,3. Associate professional and technical occupations,Full-time: 49 or more hours worked
+2011,South West,E12000009,8093,Females,3. Associate professional and technical occupations,Full-time: 49 or more hours worked
+2011,Wales,W92000004,3262,Females,3. Associate professional and technical occupations,Full-time: 49 or more hours worked
+2011,North East,E12000001,8040,Females,4. Administrative and secretarial occupations,Part-time: 15 hours or less worked
+2011,North West,E12000002,25384,Females,4. Administrative and secretarial occupations,Part-time: 15 hours or less worked
+2011,Yorkshire and The Humber,E12000003,20769,Females,4. Administrative and secretarial occupations,Part-time: 15 hours or less worked
+2011,East Midlands,E12000004,20591,Females,4. Administrative and secretarial occupations,Part-time: 15 hours or less worked
+2011,West Midlands,E12000005,23849,Females,4. Administrative and secretarial occupations,Part-time: 15 hours or less worked
+2011,East,E12000006,36592,Females,4. Administrative and secretarial occupations,Part-time: 15 hours or less worked
+2011,London,E12000007,32092,Females,4. Administrative and secretarial occupations,Part-time: 15 hours or less worked
+2011,South East,E12000008,52927,Females,4. Administrative and secretarial occupations,Part-time: 15 hours or less worked
+2011,South West,E12000009,29574,Females,4. Administrative and secretarial occupations,Part-time: 15 hours or less worked
+2011,Wales,W92000004,9923,Females,4. Administrative and secretarial occupations,Part-time: 15 hours or less worked
+2011,North East,E12000001,36022,Females,4. Administrative and secretarial occupations,Part-time: 16 to 30 hours worked
+2011,North West,E12000002,95486,Females,4. Administrative and secretarial occupations,Part-time: 16 to 30 hours worked
+2011,Yorkshire and The Humber,E12000003,73099,Females,4. Administrative and secretarial occupations,Part-time: 16 to 30 hours worked
+2011,East Midlands,E12000004,63189,Females,4. Administrative and secretarial occupations,Part-time: 16 to 30 hours worked
+2011,West Midlands,E12000005,75515,Females,4. Administrative and secretarial occupations,Part-time: 16 to 30 hours worked
+2011,East,E12000006,85659,Females,4. Administrative and secretarial occupations,Part-time: 16 to 30 hours worked
+2011,London,E12000007,79902,Females,4. Administrative and secretarial occupations,Part-time: 16 to 30 hours worked
+2011,South East,E12000008,122875,Females,4. Administrative and secretarial occupations,Part-time: 16 to 30 hours worked
+2011,South West,E12000009,77646,Females,4. Administrative and secretarial occupations,Part-time: 16 to 30 hours worked
+2011,Wales,W92000004,38616,Females,4. Administrative and secretarial occupations,Part-time: 16 to 30 hours worked
+2011,North East,E12000001,61475,Females,4. Administrative and secretarial occupations,Full-time: 31 to 48 hours worked
+2011,North West,E12000002,169018,Females,4. Administrative and secretarial occupations,Full-time: 31 to 48 hours worked
+2011,Yorkshire and The Humber,E12000003,112470,Females,4. Administrative and secretarial occupations,Full-time: 31 to 48 hours worked
+2011,East Midlands,E12000004,100958,Females,4. Administrative and secretarial occupations,Full-time: 31 to 48 hours worked
+2011,West Midlands,E12000005,127361,Females,4. Administrative and secretarial occupations,Full-time: 31 to 48 hours worked
+2011,East,E12000006,146429,Females,4. Administrative and secretarial occupations,Full-time: 31 to 48 hours worked
+2011,London,E12000007,216679,Females,4. Administrative and secretarial occupations,Full-time: 31 to 48 hours worked
+2011,South East,E12000008,208068,Females,4. Administrative and secretarial occupations,Full-time: 31 to 48 hours worked
+2011,South West,E12000009,114265,Females,4. Administrative and secretarial occupations,Full-time: 31 to 48 hours worked
+2011,Wales,W92000004,66925,Females,4. Administrative and secretarial occupations,Full-time: 31 to 48 hours worked
+2011,North East,E12000001,1192,Females,4. Administrative and secretarial occupations,Full-time: 49 or more hours worked
+2011,North West,E12000002,3704,Females,4. Administrative and secretarial occupations,Full-time: 49 or more hours worked
+2011,Yorkshire and The Humber,E12000003,2802,Females,4. Administrative and secretarial occupations,Full-time: 49 or more hours worked
+2011,East Midlands,E12000004,2824,Females,4. Administrative and secretarial occupations,Full-time: 49 or more hours worked
+2011,West Midlands,E12000005,3298,Females,4. Administrative and secretarial occupations,Full-time: 49 or more hours worked
+2011,East,E12000006,5327,Females,4. Administrative and secretarial occupations,Full-time: 49 or more hours worked
+2011,London,E12000007,12059,Females,4. Administrative and secretarial occupations,Full-time: 49 or more hours worked
+2011,South East,E12000008,7974,Females,4. Administrative and secretarial occupations,Full-time: 49 or more hours worked
+2011,South West,E12000009,3624,Females,4. Administrative and secretarial occupations,Full-time: 49 or more hours worked
+2011,Wales,W92000004,1619,Females,4. Administrative and secretarial occupations,Full-time: 49 or more hours worked
+2011,North East,E12000001,1252,Females,5. Skilled trades occupations,Part-time: 15 hours or less worked
+2011,North West,E12000002,3751,Females,5. Skilled trades occupations,Part-time: 15 hours or less worked
+2011,Yorkshire and The Humber,E12000003,3355,Females,5. Skilled trades occupations,Part-time: 15 hours or less worked
+2011,East Midlands,E12000004,3386,Females,5. Skilled trades occupations,Part-time: 15 hours or less worked
+2011,West Midlands,E12000005,3618,Females,5. Skilled trades occupations,Part-time: 15 hours or less worked
+2011,East,E12000006,4941,Females,5. Skilled trades occupations,Part-time: 15 hours or less worked
+2011,London,E12000007,4672,Females,5. Skilled trades occupations,Part-time: 15 hours or less worked
+2011,South East,E12000008,7298,Females,5. Skilled trades occupations,Part-time: 15 hours or less worked
+2011,South West,E12000009,5409,Females,5. Skilled trades occupations,Part-time: 15 hours or less worked
+2011,Wales,W92000004,2159,Females,5. Skilled trades occupations,Part-time: 15 hours or less worked
+2011,North East,E12000001,4820,Females,5. Skilled trades occupations,Part-time: 16 to 30 hours worked
+2011,North West,E12000002,13047,Females,5. Skilled trades occupations,Part-time: 16 to 30 hours worked
+2011,Yorkshire and The Humber,E12000003,10539,Females,5. Skilled trades occupations,Part-time: 16 to 30 hours worked
+2011,East Midlands,E12000004,9416,Females,5. Skilled trades occupations,Part-time: 16 to 30 hours worked
+2011,West Midlands,E12000005,10752,Females,5. Skilled trades occupations,Part-time: 16 to 30 hours worked
+2011,East,E12000006,11709,Females,5. Skilled trades occupations,Part-time: 16 to 30 hours worked
+2011,London,E12000007,11519,Females,5. Skilled trades occupations,Part-time: 16 to 30 hours worked
+2011,South East,E12000008,16299,Females,5. Skilled trades occupations,Part-time: 16 to 30 hours worked
+2011,South West,E12000009,13001,Females,5. Skilled trades occupations,Part-time: 16 to 30 hours worked
+2011,Wales,W92000004,7340,Females,5. Skilled trades occupations,Part-time: 16 to 30 hours worked
+2011,North East,E12000001,6341,Females,5. Skilled trades occupations,Full-time: 31 to 48 hours worked
+2011,North West,E12000002,18124,Females,5. Skilled trades occupations,Full-time: 31 to 48 hours worked
+2011,Yorkshire and The Humber,E12000003,14173,Females,5. Skilled trades occupations,Full-time: 31 to 48 hours worked
+2011,East Midlands,E12000004,14092,Females,5. Skilled trades occupations,Full-time: 31 to 48 hours worked
+2011,West Midlands,E12000005,16340,Females,5. Skilled trades occupations,Full-time: 31 to 48 hours worked
+2011,East,E12000006,15952,Females,5. Skilled trades occupations,Full-time: 31 to 48 hours worked
+2011,London,E12000007,21053,Females,5. Skilled trades occupations,Full-time: 31 to 48 hours worked
+2011,South East,E12000008,23333,Females,5. Skilled trades occupations,Full-time: 31 to 48 hours worked
+2011,South West,E12000009,17226,Females,5. Skilled trades occupations,Full-time: 31 to 48 hours worked
+2011,Wales,W92000004,9125,Females,5. Skilled trades occupations,Full-time: 31 to 48 hours worked
+2011,North East,E12000001,1255,Females,5. Skilled trades occupations,Full-time: 49 or more hours worked
+2011,North West,E12000002,3719,Females,5. Skilled trades occupations,Full-time: 49 or more hours worked
+2011,Yorkshire and The Humber,E12000003,2942,Females,5. Skilled trades occupations,Full-time: 49 or more hours worked
+2011,East Midlands,E12000004,2642,Females,5. Skilled trades occupations,Full-time: 49 or more hours worked
+2011,West Midlands,E12000005,3166,Females,5. Skilled trades occupations,Full-time: 49 or more hours worked
+2011,East,E12000006,3029,Females,5. Skilled trades occupations,Full-time: 49 or more hours worked
+2011,London,E12000007,4364,Females,5. Skilled trades occupations,Full-time: 49 or more hours worked
+2011,South East,E12000008,4772,Females,5. Skilled trades occupations,Full-time: 49 or more hours worked
+2011,South West,E12000009,4964,Females,5. Skilled trades occupations,Full-time: 49 or more hours worked
+2011,Wales,W92000004,3599,Females,5. Skilled trades occupations,Full-time: 49 or more hours worked
+2011,North East,E12000001,8468,Females,"6. Caring, leisure and other service occupations",Part-time: 15 hours or less worked
+2011,North West,E12000002,29183,Females,"6. Caring, leisure and other service occupations",Part-time: 15 hours or less worked
+2011,Yorkshire and The Humber,E12000003,21421,Females,"6. Caring, leisure and other service occupations",Part-time: 15 hours or less worked
+2011,East Midlands,E12000004,20728,Females,"6. Caring, leisure and other service occupations",Part-time: 15 hours or less worked
+2011,West Midlands,E12000005,22954,Females,"6. Caring, leisure and other service occupations",Part-time: 15 hours or less worked
+2011,East,E12000006,32116,Females,"6. Caring, leisure and other service occupations",Part-time: 15 hours or less worked
+2011,London,E12000007,31638,Females,"6. Caring, leisure and other service occupations",Part-time: 15 hours or less worked
+2011,South East,E12000008,46985,Females,"6. Caring, leisure and other service occupations",Part-time: 15 hours or less worked
+2011,South West,E12000009,28788,Females,"6. Caring, leisure and other service occupations",Part-time: 15 hours or less worked
+2011,Wales,W92000004,12396,Females,"6. Caring, leisure and other service occupations",Part-time: 15 hours or less worked
+2011,North East,E12000001,37354,Females,"6. Caring, leisure and other service occupations",Part-time: 16 to 30 hours worked
+2011,North West,E12000002,107325,Females,"6. Caring, leisure and other service occupations",Part-time: 16 to 30 hours worked
+2011,Yorkshire and The Humber,E12000003,84427,Females,"6. Caring, leisure and other service occupations",Part-time: 16 to 30 hours worked
+2011,East Midlands,E12000004,70516,Females,"6. Caring, leisure and other service occupations",Part-time: 16 to 30 hours worked
+2011,West Midlands,E12000005,81832,Females,"6. Caring, leisure and other service occupations",Part-time: 16 to 30 hours worked
+2011,East,E12000006,89696,Females,"6. Caring, leisure and other service occupations",Part-time: 16 to 30 hours worked
+2011,London,E12000007,86231,Females,"6. Caring, leisure and other service occupations",Part-time: 16 to 30 hours worked
+2011,South East,E12000008,128450,Females,"6. Caring, leisure and other service occupations",Part-time: 16 to 30 hours worked
+2011,South West,E12000009,89132,Females,"6. Caring, leisure and other service occupations",Part-time: 16 to 30 hours worked
+2011,Wales,W92000004,48851,Females,"6. Caring, leisure and other service occupations",Part-time: 16 to 30 hours worked
+2011,North East,E12000001,45911,Females,"6. Caring, leisure and other service occupations",Full-time: 31 to 48 hours worked
+2011,North West,E12000002,118863,Females,"6. Caring, leisure and other service occupations",Full-time: 31 to 48 hours worked
+2011,Yorkshire and The Humber,E12000003,81100,Females,"6. Caring, leisure and other service occupations",Full-time: 31 to 48 hours worked
+2011,East Midlands,E12000004,72010,Females,"6. Caring, leisure and other service occupations",Full-time: 31 to 48 hours worked
+2011,West Midlands,E12000005,86645,Females,"6. Caring, leisure and other service occupations",Full-time: 31 to 48 hours worked
+2011,East,E12000006,88330,Females,"6. Caring, leisure and other service occupations",Full-time: 31 to 48 hours worked
+2011,London,E12000007,110177,Females,"6. Caring, leisure and other service occupations",Full-time: 31 to 48 hours worked
+2011,South East,E12000008,134104,Females,"6. Caring, leisure and other service occupations",Full-time: 31 to 48 hours worked
+2011,South West,E12000009,82222,Females,"6. Caring, leisure and other service occupations",Full-time: 31 to 48 hours worked
+2011,Wales,W92000004,51295,Females,"6. Caring, leisure and other service occupations",Full-time: 31 to 48 hours worked
+2011,North East,E12000001,3774,Females,"6. Caring, leisure and other service occupations",Full-time: 49 or more hours worked
+2011,North West,E12000002,10475,Females,"6. Caring, leisure and other service occupations",Full-time: 49 or more hours worked
+2011,Yorkshire and The Humber,E12000003,7469,Females,"6. Caring, leisure and other service occupations",Full-time: 49 or more hours worked
+2011,East Midlands,E12000004,6630,Females,"6. Caring, leisure and other service occupations",Full-time: 49 or more hours worked
+2011,West Midlands,E12000005,8384,Females,"6. Caring, leisure and other service occupations",Full-time: 49 or more hours worked
+2011,East,E12000006,10624,Females,"6. Caring, leisure and other service occupations",Full-time: 49 or more hours worked
+2011,London,E12000007,14302,Females,"6. Caring, leisure and other service occupations",Full-time: 49 or more hours worked
+2011,South East,E12000008,17972,Females,"6. Caring, leisure and other service occupations",Full-time: 49 or more hours worked
+2011,South West,E12000009,9312,Females,"6. Caring, leisure and other service occupations",Full-time: 49 or more hours worked
+2011,Wales,W92000004,4346,Females,"6. Caring, leisure and other service occupations",Full-time: 49 or more hours worked
+2011,North East,E12000001,15588,Females,7. Sales and customer service occupations,Part-time: 15 hours or less worked
+2011,North West,E12000002,41491,Females,7. Sales and customer service occupations,Part-time: 15 hours or less worked
+2011,Yorkshire and The Humber,E12000003,32768,Females,7. Sales and customer service occupations,Part-time: 15 hours or less worked
+2011,East Midlands,E12000004,28428,Females,7. Sales and customer service occupations,Part-time: 15 hours or less worked
+2011,West Midlands,E12000005,32500,Females,7. Sales and customer service occupations,Part-time: 15 hours or less worked
+2011,East,E12000006,39460,Females,7. Sales and customer service occupations,Part-time: 15 hours or less worked
+2011,London,E12000007,39766,Females,7. Sales and customer service occupations,Part-time: 15 hours or less worked
+2011,South East,E12000008,59361,Females,7. Sales and customer service occupations,Part-time: 15 hours or less worked
+2011,South West,E12000009,37410,Females,7. Sales and customer service occupations,Part-time: 15 hours or less worked
+2011,Wales,W92000004,19170,Females,7. Sales and customer service occupations,Part-time: 15 hours or less worked
+2011,North East,E12000001,39857,Females,7. Sales and customer service occupations,Part-time: 16 to 30 hours worked
+2011,North West,E12000002,87734,Females,7. Sales and customer service occupations,Part-time: 16 to 30 hours worked
+2011,Yorkshire and The Humber,E12000003,66490,Females,7. Sales and customer service occupations,Part-time: 16 to 30 hours worked
+2011,East Midlands,E12000004,52016,Females,7. Sales and customer service occupations,Part-time: 16 to 30 hours worked
+2011,West Midlands,E12000005,60882,Females,7. Sales and customer service occupations,Part-time: 16 to 30 hours worked
+2011,East,E12000006,58635,Females,7. Sales and customer service occupations,Part-time: 16 to 30 hours worked
+2011,London,E12000007,59904,Females,7. Sales and customer service occupations,Part-time: 16 to 30 hours worked
+2011,South East,E12000008,80547,Females,7. Sales and customer service occupations,Part-time: 16 to 30 hours worked
+2011,South West,E12000009,59422,Females,7. Sales and customer service occupations,Part-time: 16 to 30 hours worked
+2011,Wales,W92000004,37696,Females,7. Sales and customer service occupations,Part-time: 16 to 30 hours worked
+2011,North East,E12000001,26418,Females,7. Sales and customer service occupations,Full-time: 31 to 48 hours worked
+2011,North West,E12000002,66314,Females,7. Sales and customer service occupations,Full-time: 31 to 48 hours worked
+2011,Yorkshire and The Humber,E12000003,46277,Females,7. Sales and customer service occupations,Full-time: 31 to 48 hours worked
+2011,East Midlands,E12000004,39172,Females,7. Sales and customer service occupations,Full-time: 31 to 48 hours worked
+2011,West Midlands,E12000005,46133,Females,7. Sales and customer service occupations,Full-time: 31 to 48 hours worked
+2011,East,E12000006,48527,Females,7. Sales and customer service occupations,Full-time: 31 to 48 hours worked
+2011,London,E12000007,64122,Females,7. Sales and customer service occupations,Full-time: 31 to 48 hours worked
+2011,South East,E12000008,73945,Females,7. Sales and customer service occupations,Full-time: 31 to 48 hours worked
+2011,South West,E12000009,44346,Females,7. Sales and customer service occupations,Full-time: 31 to 48 hours worked
+2011,Wales,W92000004,24673,Females,7. Sales and customer service occupations,Full-time: 31 to 48 hours worked
+2011,North East,E12000001,711,Females,7. Sales and customer service occupations,Full-time: 49 or more hours worked
+2011,North West,E12000002,2349,Females,7. Sales and customer service occupations,Full-time: 49 or more hours worked
+2011,Yorkshire and The Humber,E12000003,1728,Females,7. Sales and customer service occupations,Full-time: 49 or more hours worked
+2011,East Midlands,E12000004,1557,Females,7. Sales and customer service occupations,Full-time: 49 or more hours worked
+2011,West Midlands,E12000005,1945,Females,7. Sales and customer service occupations,Full-time: 49 or more hours worked
+2011,East,E12000006,2176,Females,7. Sales and customer service occupations,Full-time: 49 or more hours worked
+2011,London,E12000007,4042,Females,7. Sales and customer service occupations,Full-time: 49 or more hours worked
+2011,South East,E12000008,3166,Females,7. Sales and customer service occupations,Full-time: 49 or more hours worked
+2011,South West,E12000009,1768,Females,7. Sales and customer service occupations,Full-time: 49 or more hours worked
+2011,Wales,W92000004,979,Females,7. Sales and customer service occupations,Full-time: 49 or more hours worked
+2011,North East,E12000001,660,Females,"8. Process, plant and machine operatives",Part-time: 15 hours or less worked
+2011,North West,E12000002,2307,Females,"8. Process, plant and machine operatives",Part-time: 15 hours or less worked
+2011,Yorkshire and The Humber,E12000003,1786,Females,"8. Process, plant and machine operatives",Part-time: 15 hours or less worked
+2011,East Midlands,E12000004,2160,Females,"8. Process, plant and machine operatives",Part-time: 15 hours or less worked
+2011,West Midlands,E12000005,2112,Females,"8. Process, plant and machine operatives",Part-time: 15 hours or less worked
+2011,East,E12000006,2438,Females,"8. Process, plant and machine operatives",Part-time: 15 hours or less worked
+2011,London,E12000007,1809,Females,"8. Process, plant and machine operatives",Part-time: 15 hours or less worked
+2011,South East,E12000008,3011,Females,"8. Process, plant and machine operatives",Part-time: 15 hours or less worked
+2011,South West,E12000009,1976,Females,"8. Process, plant and machine operatives",Part-time: 15 hours or less worked
+2011,Wales,W92000004,1022,Females,"8. Process, plant and machine operatives",Part-time: 15 hours or less worked
+2011,North East,E12000001,2381,Females,"8. Process, plant and machine operatives",Part-time: 16 to 30 hours worked
+2011,North West,E12000002,6902,Females,"8. Process, plant and machine operatives",Part-time: 16 to 30 hours worked
+2011,Yorkshire and The Humber,E12000003,5880,Females,"8. Process, plant and machine operatives",Part-time: 16 to 30 hours worked
+2011,East Midlands,E12000004,7088,Females,"8. Process, plant and machine operatives",Part-time: 16 to 30 hours worked
+2011,West Midlands,E12000005,6068,Females,"8. Process, plant and machine operatives",Part-time: 16 to 30 hours worked
+2011,East,E12000006,5472,Females,"8. Process, plant and machine operatives",Part-time: 16 to 30 hours worked
+2011,London,E12000007,4346,Females,"8. Process, plant and machine operatives",Part-time: 16 to 30 hours worked
+2011,South East,E12000008,6272,Females,"8. Process, plant and machine operatives",Part-time: 16 to 30 hours worked
+2011,South West,E12000009,5051,Females,"8. Process, plant and machine operatives",Part-time: 16 to 30 hours worked
+2011,Wales,W92000004,2962,Females,"8. Process, plant and machine operatives",Part-time: 16 to 30 hours worked
+2011,North East,E12000001,6621,Females,"8. Process, plant and machine operatives",Full-time: 31 to 48 hours worked
+2011,North West,E12000002,19225,Females,"8. Process, plant and machine operatives",Full-time: 31 to 48 hours worked
+2011,Yorkshire and The Humber,E12000003,17207,Females,"8. Process, plant and machine operatives",Full-time: 31 to 48 hours worked
+2011,East Midlands,E12000004,20624,Females,"8. Process, plant and machine operatives",Full-time: 31 to 48 hours worked
+2011,West Midlands,E12000005,19649,Females,"8. Process, plant and machine operatives",Full-time: 31 to 48 hours worked
+2011,East,E12000006,15968,Females,"8. Process, plant and machine operatives",Full-time: 31 to 48 hours worked
+2011,London,E12000007,11350,Females,"8. Process, plant and machine operatives",Full-time: 31 to 48 hours worked
+2011,South East,E12000008,16841,Females,"8. Process, plant and machine operatives",Full-time: 31 to 48 hours worked
+2011,South West,E12000009,13853,Females,"8. Process, plant and machine operatives",Full-time: 31 to 48 hours worked
+2011,Wales,W92000004,9203,Females,"8. Process, plant and machine operatives",Full-time: 31 to 48 hours worked
+2011,North East,E12000001,460,Females,"8. Process, plant and machine operatives",Full-time: 49 or more hours worked
+2011,North West,E12000002,1510,Females,"8. Process, plant and machine operatives",Full-time: 49 or more hours worked
+2011,Yorkshire and The Humber,E12000003,1348,Females,"8. Process, plant and machine operatives",Full-time: 49 or more hours worked
+2011,East Midlands,E12000004,1504,Females,"8. Process, plant and machine operatives",Full-time: 49 or more hours worked
+2011,West Midlands,E12000005,1440,Females,"8. Process, plant and machine operatives",Full-time: 49 or more hours worked
+2011,East,E12000006,1620,Females,"8. Process, plant and machine operatives",Full-time: 49 or more hours worked
+2011,London,E12000007,1414,Females,"8. Process, plant and machine operatives",Full-time: 49 or more hours worked
+2011,South East,E12000008,1922,Females,"8. Process, plant and machine operatives",Full-time: 49 or more hours worked
+2011,South West,E12000009,1439,Females,"8. Process, plant and machine operatives",Full-time: 49 or more hours worked
+2011,Wales,W92000004,755,Females,"8. Process, plant and machine operatives",Full-time: 49 or more hours worked
+2011,North East,E12000001,23012,Females,9. Elementary occupations,Part-time: 15 hours or less worked
+2011,North West,E12000002,56190,Females,9. Elementary occupations,Part-time: 15 hours or less worked
+2011,Yorkshire and The Humber,E12000003,48477,Females,9. Elementary occupations,Part-time: 15 hours or less worked
+2011,East Midlands,E12000004,43222,Females,9. Elementary occupations,Part-time: 15 hours or less worked
+2011,West Midlands,E12000005,50629,Females,9. Elementary occupations,Part-time: 15 hours or less worked
+2011,East,E12000006,50099,Females,9. Elementary occupations,Part-time: 15 hours or less worked
+2011,London,E12000007,44735,Females,9. Elementary occupations,Part-time: 15 hours or less worked
+2011,South East,E12000008,64390,Females,9. Elementary occupations,Part-time: 15 hours or less worked
+2011,South West,E12000009,47894,Females,9. Elementary occupations,Part-time: 15 hours or less worked
+2011,Wales,W92000004,24786,Females,9. Elementary occupations,Part-time: 15 hours or less worked
+2011,North East,E12000001,28997,Females,9. Elementary occupations,Part-time: 16 to 30 hours worked
+2011,North West,E12000002,68737,Females,9. Elementary occupations,Part-time: 16 to 30 hours worked
+2011,Yorkshire and The Humber,E12000003,53866,Females,9. Elementary occupations,Part-time: 16 to 30 hours worked
+2011,East Midlands,E12000004,45172,Females,9. Elementary occupations,Part-time: 16 to 30 hours worked
+2011,West Midlands,E12000005,52690,Females,9. Elementary occupations,Part-time: 16 to 30 hours worked
+2011,East,E12000006,47644,Females,9. Elementary occupations,Part-time: 16 to 30 hours worked
+2011,London,E12000007,60746,Females,9. Elementary occupations,Part-time: 16 to 30 hours worked
+2011,South East,E12000008,65435,Females,9. Elementary occupations,Part-time: 16 to 30 hours worked
+2011,South West,E12000009,47981,Females,9. Elementary occupations,Part-time: 16 to 30 hours worked
+2011,Wales,W92000004,29535,Females,9. Elementary occupations,Part-time: 16 to 30 hours worked
+2011,North East,E12000001,14130,Females,9. Elementary occupations,Full-time: 31 to 48 hours worked
+2011,North West,E12000002,43508,Females,9. Elementary occupations,Full-time: 31 to 48 hours worked
+2011,Yorkshire and The Humber,E12000003,35305,Females,9. Elementary occupations,Full-time: 31 to 48 hours worked
+2011,East Midlands,E12000004,36533,Females,9. Elementary occupations,Full-time: 31 to 48 hours worked
+2011,West Midlands,E12000005,38580,Females,9. Elementary occupations,Full-time: 31 to 48 hours worked
+2011,East,E12000006,38601,Females,9. Elementary occupations,Full-time: 31 to 48 hours worked
+2011,London,E12000007,58515,Females,9. Elementary occupations,Full-time: 31 to 48 hours worked
+2011,South East,E12000008,53622,Females,9. Elementary occupations,Full-time: 31 to 48 hours worked
+2011,South West,E12000009,33643,Females,9. Elementary occupations,Full-time: 31 to 48 hours worked
+2011,Wales,W92000004,18380,Females,9. Elementary occupations,Full-time: 31 to 48 hours worked
+2011,North East,E12000001,754,Females,9. Elementary occupations,Full-time: 49 or more hours worked
+2011,North West,E12000002,2688,Females,9. Elementary occupations,Full-time: 49 or more hours worked
+2011,Yorkshire and The Humber,E12000003,2214,Females,9. Elementary occupations,Full-time: 49 or more hours worked
+2011,East Midlands,E12000004,2089,Females,9. Elementary occupations,Full-time: 49 or more hours worked
+2011,West Midlands,E12000005,2395,Females,9. Elementary occupations,Full-time: 49 or more hours worked
+2011,East,E12000006,2754,Females,9. Elementary occupations,Full-time: 49 or more hours worked
+2011,London,E12000007,5602,Females,9. Elementary occupations,Full-time: 49 or more hours worked
+2011,South East,E12000008,4230,Females,9. Elementary occupations,Full-time: 49 or more hours worked
+2011,South West,E12000009,2886,Females,9. Elementary occupations,Full-time: 49 or more hours worked
+2011,Wales,W92000004,1610,Females,9. Elementary occupations,Full-time: 49 or more hours worked
