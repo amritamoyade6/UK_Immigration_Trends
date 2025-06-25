@@ -36,8 +36,7 @@ UK_Immigration_Trends/
 
 > The interactive dashboard visualizes employment and immigration metrics across geographies and time periods.
 
-🔗 **Coming Soon on [Tableau Public](https://public.tableau.com/)**  
-_Screenshots will be added once uploaded._
+🔗 **https://public.tableau.com/app/profile/amrita.moyade/viz/UK_Immigration_Trends_Analytics/Story**  
 
 ---
 
@@ -65,7 +64,9 @@ _Screenshots will be added once uploaded._
 	•	Data/processed/migrant_activity_PCA_tSNE.csv contains precomputed embeddings for faster visual analysis.
 
 4.	View the dashboard:
-	•	Open UK_Immigration_Trends_Analytics.twbx in Tableau Desktop or download the dashboard from Tableau Public (link coming soon).
+	•	Open UK_Immigration_Trends_Analytics.twbx in Tableau Desktop or download the dashboard from Tableau Public-
+
+https://public.tableau.com/app/profile/amrita.moyade/viz/UK_Immigration_Trends_Analytics/Story.
 
 📚 References
 	•	UK Census 2011 and 2021 (ONS)
